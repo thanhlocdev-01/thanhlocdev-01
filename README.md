@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi! My name is Thanh Loc 😄
+___
+🌍  I am a Software Engineer based in Ho Chi Minh City
+<br/>
 
+### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=java,js,cs)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=nodejs,react,express,redux)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=tailwind,scss)](https://skillicons.dev)
+<br/>
 <!--
-**thanhlocdev-01/thanhlocdev-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Other
+[![My Skills](https://skillicons.dev/icons?i=ubuntu,linux)] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![My Skills](https://skillicons.dev/icons?i=nodejs,react,express,redux)]
+</br> -->
 
-Here are some ideas to get you started:
+### Socials
+<div id="badges">
+  <a href="">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
