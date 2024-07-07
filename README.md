@@ -5,7 +5,7 @@ ___
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,cs)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=nodejs,react,express,redux)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=tailwind,scss,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=nodejs,react,express,redux)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=tailwind,scss,figma)](https://skillicons.dev)
 <br/>
 ### Other
 ![My Skills](https://skillicons.dev/icons?i=git,linux) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![My Skills](https://skillicons.dev/icons?i=docker,gitlab,jenkins)
