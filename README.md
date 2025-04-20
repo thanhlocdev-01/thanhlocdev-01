@@ -1,6 +1,6 @@
 ### Hi! My name is Thanh Loc 😄
 ___
-🌍  I am a Software Engineer based in Ho Chi Minh City
+🌍  I am a Frontend Developer based in Ho Chi Minh City
 <br/>
 
 ### Skills
